@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- String -->
+    <string name="app_name">Budget Starter</string>
+    <string name="txt_albums">Albums</string>
+    <string name="txt_back">Back</string>
+    <string name="txt_reset">Reset</string>
+    <string name="txt_about">About</string>
+    <string name="txt_enter_email">Enter Email</string>  
+     <string name="txt_waring_succ">Y</string>    		      
+    <!-- Message #fafafa-->
+    <string name="msg_loading">Loading...</string>
+     <string name="txt_warning">Your budget is not zero-based.Please go back and adjust values</string>   
+    <!-- Color -->
+    <color name="color_white">#fafafa</color>
+    <color name="color_black">#000000</color>
+    <color name="color_red">#FF0000</color>
+     <color name="color_grey">#808080</color>
+     <color name="color_green">#54cb59</color>
+     <color name="color_spec_white">#FF0000</color>
+    <string name="txt_mail_template"><p>
+    
+Thank you for using Dave Ramsey’s Budget Starter. Your budget is ready to download.<br />
+<br />
+If you liked Budget Starter you may also enjoy <a href="http://itunes.apple.com/us/app/ask-dave-ramsey/id380709887?mt=8">The Dave Ramsey Show iPhone App</a>. With this app, you can:<br />
+<br />
+- Listen to the show, LIVE<br />
+- Access the last 30 days of Dave’s show, commercial-free<br />
+- Search and listen to thousands of calls from the show<br />
+- Email Dave on-air<br />
+- And more…<br />
+</p>
+<a href="http://itunes.apple.com/us/app/ask-dave-ramsey/id380709887?mt=8">Go to the App Store Now.</a></string>
+</resources>
+
